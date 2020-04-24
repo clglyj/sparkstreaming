@@ -5,6 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <!--将spingboot的父目录放置在这里，可以将logger聚合在整个项目中 -->
+         <!--将spingboot的父目录放置在这里，可以将logger聚合在整个项目中 -->
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
